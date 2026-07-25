@@ -5,7 +5,7 @@
 ### 👨‍💻 Autor
 
 **Ivan Montalvo**
-
+### Repositorio GitHub: https://github.com/ivanm1075-sketch/proyecto_final_prediccion_casas
 ---
 
 # 📌 Descripción
@@ -360,7 +360,8 @@ Usuario
 # 📷 Capturas de la Aplicación
 
 ## Swagger (FastAPI)
-
+![Fastapi 1](<Screenshot 2026-07-25 155011.png>)
+![Fastapi 2](<Screenshot 2026-07-25 154953.png>)
 ![FastApi](image.png)
 
 ---
